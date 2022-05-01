@@ -1,4 +1,4 @@
-### 모듈
+# 모듈
 import matplotlib.pyplot as plt
 from matplotlib.patches import Wedge, Rectangle
 
